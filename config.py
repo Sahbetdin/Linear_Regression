@@ -1,7 +1,4 @@
 from dataclasses import dataclass
-# import dataclasses
-# import os
-
 
 @dataclass
 class Parameters:
